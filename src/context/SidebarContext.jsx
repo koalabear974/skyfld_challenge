@@ -5,8 +5,8 @@ import React, { createContext, useContext, useState } from 'react';
 const SidebarContext = createContext();
 
 // Create provider
-export const SidebarProvider = ({children}) => {
-  const [isSidebarOpen, setSidebarOpen] = useState(true);
+export const SidebarProvider = ({value = true, children}) => {
+  const [isSidebarOpen, setSidebarOpen] = useState(value);
 
   const toggleSidebar = () => setSidebarOpen(!isSidebarOpen);
 

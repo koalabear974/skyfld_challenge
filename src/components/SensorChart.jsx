@@ -1,10 +1,10 @@
+import { Datepicker, Select, Spinner } from "flowbite-react";
+import moment from "moment";
 import ApexChart from "@/components/ApexChart";
 import { generateChartSeries, getChartStyling } from "@/helpers/chart";
 import { useEffect, useState } from "react";
 import ErrorAlert from "@/components/ErrorAlert";
 import DashboardBoxWrapper from "@/components/DashboardBoxWrapper";
-import { Datepicker, Select, Spinner } from "flowbite-react";
-import moment from "moment";
 import TimePicker from "@/components/TimePicker";
 import ToggleSwitch from "@/components/ToggleSwitch";
 
