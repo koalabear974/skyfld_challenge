@@ -9,6 +9,9 @@ export default defineConfig({
   test: {
     globals: true,
     environment: 'jsdom',
+    deps: {
+      moduleDirectories: ['node_modules', path.resolve('../../packages')],
+    }
   },
   resolve: {
     alias: {

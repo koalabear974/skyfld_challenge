@@ -40,3 +40,7 @@ Ensure the application can be easily set up and run locally for evaluation purpo
 
 ## Challenge completion steps:
  - Generate code base with nextjs create app
+ - Create file database helper, api and tests for it
+ - Install UI Framework adequate for dashboard and configure it
+ - Generate temperature, humidity, etc data 
+ - Add chart components and display it on dashboard
