@@ -1,0 +1,6056 @@
+[
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.818248998828473,
+    "timestamp": "2024-05-22 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.700823014919184,
+    "timestamp": "2024-05-22 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.526539768177724,
+    "timestamp": "2024-05-22 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.291805294784268,
+    "timestamp": "2024-05-22 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.68942913070177,
+    "timestamp": "2024-05-22 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.868865145145282,
+    "timestamp": "2024-05-22 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.73004766502187,
+    "timestamp": "2024-05-22 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.027659945042913,
+    "timestamp": "2024-05-22 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.46243329006507,
+    "timestamp": "2024-05-22 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.54986487906949,
+    "timestamp": "2024-05-22 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.880184905367653,
+    "timestamp": "2024-05-22 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.855400092617302,
+    "timestamp": "2024-05-22 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.181829809508123,
+    "timestamp": "2024-05-22 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.884689281389008,
+    "timestamp": "2024-05-22 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.591954241943903,
+    "timestamp": "2024-05-22 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.593851584008505,
+    "timestamp": "2024-05-22 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.2544053333132,
+    "timestamp": "2024-05-22 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.440154489436125,
+    "timestamp": "2024-05-22 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.720331895811846,
+    "timestamp": "2024-05-22 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.73801851994261,
+    "timestamp": "2024-05-22 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.363281585787114,
+    "timestamp": "2024-05-22 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.234200455448924,
+    "timestamp": "2024-05-22 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.66831921477965,
+    "timestamp": "2024-05-22 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.403802852353348,
+    "timestamp": "2024-05-22 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.28374899618049,
+    "timestamp": "2024-05-22 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.364790371204123,
+    "timestamp": "2024-05-22 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.968312235237935,
+    "timestamp": "2024-05-22 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.646260854731118,
+    "timestamp": "2024-05-22 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.828683324655227,
+    "timestamp": "2024-05-22 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.281682840093602,
+    "timestamp": "2024-05-22 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.650806304115342,
+    "timestamp": "2024-05-22 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.817684143428794,
+    "timestamp": "2024-05-22 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.020415082555724,
+    "timestamp": "2024-05-22 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.060225099220048,
+    "timestamp": "2024-05-22 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.415229259359682,
+    "timestamp": "2024-05-22 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.002769550076366,
+    "timestamp": "2024-05-22 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.456329304376432,
+    "timestamp": "2024-05-22 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.896571223687072,
+    "timestamp": "2024-05-22 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.468501709333278,
+    "timestamp": "2024-05-22 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.46086790402843,
+    "timestamp": "2024-05-22 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.200705951840938,
+    "timestamp": "2024-05-22 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.007803212640866,
+    "timestamp": "2024-05-22 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.699821490905077,
+    "timestamp": "2024-05-22 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.263673750673737,
+    "timestamp": "2024-05-22 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.79299227333273,
+    "timestamp": "2024-05-22 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.870738033874073,
+    "timestamp": "2024-05-22 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.45315639338404,
+    "timestamp": "2024-05-22 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.700922285493764,
+    "timestamp": "2024-05-22 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.80278804168068,
+    "timestamp": "2024-05-22 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.94459755267275,
+    "timestamp": "2024-05-22 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.06610074203909,
+    "timestamp": "2024-05-22 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.32205328746074,
+    "timestamp": "2024-05-22 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.70673205668266,
+    "timestamp": "2024-05-22 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.81599083308184,
+    "timestamp": "2024-05-22 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.910024763676716,
+    "timestamp": "2024-05-22 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.720335194241738,
+    "timestamp": "2024-05-22 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.612178788602302,
+    "timestamp": "2024-05-22 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.87866730005903,
+    "timestamp": "2024-05-22 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.014459373943573,
+    "timestamp": "2024-05-22 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.89094894272359,
+    "timestamp": "2024-05-22 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.8981751056196,
+    "timestamp": "2024-05-22 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.60751568145305,
+    "timestamp": "2024-05-22 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.72841796451252,
+    "timestamp": "2024-05-22 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.22581527614765,
+    "timestamp": "2024-05-22 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.381705081187466,
+    "timestamp": "2024-05-22 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.25311679312032,
+    "timestamp": "2024-05-22 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.489432549128615,
+    "timestamp": "2024-05-22 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.553849241429296,
+    "timestamp": "2024-05-22 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.732745618020935,
+    "timestamp": "2024-05-22 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.008747351813271,
+    "timestamp": "2024-05-22 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.64304815243259,
+    "timestamp": "2024-05-22 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.52157645819965,
+    "timestamp": "2024-05-22 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.792097423010425,
+    "timestamp": "2024-05-22 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.657482396328692,
+    "timestamp": "2024-05-22 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.505475830508427,
+    "timestamp": "2024-05-22 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.795559360504974,
+    "timestamp": "2024-05-22 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.29199139966973,
+    "timestamp": "2024-05-22 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.69640353120925,
+    "timestamp": "2024-05-22 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.564438731226062,
+    "timestamp": "2024-05-22 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.293009714751552,
+    "timestamp": "2024-05-22 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.655272586445799,
+    "timestamp": "2024-05-23 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.1360355545578,
+    "timestamp": "2024-05-23 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.212322043740041,
+    "timestamp": "2024-05-23 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.512041005142123,
+    "timestamp": "2024-05-23 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.378363005155865,
+    "timestamp": "2024-05-23 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.929124203396178,
+    "timestamp": "2024-05-23 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.064992053139058,
+    "timestamp": "2024-05-23 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.9157267497881,
+    "timestamp": "2024-05-23 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.109255281432322,
+    "timestamp": "2024-05-23 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.76368885744412,
+    "timestamp": "2024-05-23 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.59957232456835,
+    "timestamp": "2024-05-23 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.948948731126004,
+    "timestamp": "2024-05-23 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.334808545022554,
+    "timestamp": "2024-05-23 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.693127516605173,
+    "timestamp": "2024-05-23 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.601027389082887,
+    "timestamp": "2024-05-23 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.05494301194993,
+    "timestamp": "2024-05-23 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.13927351825146,
+    "timestamp": "2024-05-23 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.34923464290438,
+    "timestamp": "2024-05-23 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.502039196259425,
+    "timestamp": "2024-05-23 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.628338610161418,
+    "timestamp": "2024-05-23 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.440461472154743,
+    "timestamp": "2024-05-23 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.34998476144794,
+    "timestamp": "2024-05-23 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.158341156561786,
+    "timestamp": "2024-05-23 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.28304267736808,
+    "timestamp": "2024-05-23 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.56480131072216,
+    "timestamp": "2024-05-23 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.815491821566773,
+    "timestamp": "2024-05-23 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.371989400489923,
+    "timestamp": "2024-05-23 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.039718128596604,
+    "timestamp": "2024-05-23 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.88550008554451,
+    "timestamp": "2024-05-23 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.752628252244513,
+    "timestamp": "2024-05-23 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.178909218436743,
+    "timestamp": "2024-05-23 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.978101530011575,
+    "timestamp": "2024-05-23 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.030627386452217,
+    "timestamp": "2024-05-23 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.427115067007254,
+    "timestamp": "2024-05-23 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.131794566193479,
+    "timestamp": "2024-05-23 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.396122226019457,
+    "timestamp": "2024-05-23 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.10952698512457,
+    "timestamp": "2024-05-23 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.49694379365059,
+    "timestamp": "2024-05-23 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.418618296191525,
+    "timestamp": "2024-05-23 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.81597927941036,
+    "timestamp": "2024-05-23 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.08690802607864,
+    "timestamp": "2024-05-23 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.78395175673268,
+    "timestamp": "2024-05-23 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.714388951676035,
+    "timestamp": "2024-05-23 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.38578642140455,
+    "timestamp": "2024-05-23 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.409678191522183,
+    "timestamp": "2024-05-23 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.829314081569386,
+    "timestamp": "2024-05-23 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.636865066772241,
+    "timestamp": "2024-05-23 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.65793485789378,
+    "timestamp": "2024-05-23 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.07830360670488,
+    "timestamp": "2024-05-23 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.13358578496478,
+    "timestamp": "2024-05-23 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.681070203197216,
+    "timestamp": "2024-05-23 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.138488003770405,
+    "timestamp": "2024-05-23 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.484496443534365,
+    "timestamp": "2024-05-23 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.300802013658668,
+    "timestamp": "2024-05-23 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.707162481600204,
+    "timestamp": "2024-05-23 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.155140354104702,
+    "timestamp": "2024-05-23 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.530890357765607,
+    "timestamp": "2024-05-23 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.398002605856163,
+    "timestamp": "2024-05-23 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.587687505564514,
+    "timestamp": "2024-05-23 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.803829915591807,
+    "timestamp": "2024-05-23 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.514025997160804,
+    "timestamp": "2024-05-23 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.411998903709822,
+    "timestamp": "2024-05-23 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.215857047824432,
+    "timestamp": "2024-05-23 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.74887934023864,
+    "timestamp": "2024-05-23 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.72159288998827,
+    "timestamp": "2024-05-23 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.50779957970871,
+    "timestamp": "2024-05-23 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.201827289095814,
+    "timestamp": "2024-05-23 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.142836372343986,
+    "timestamp": "2024-05-23 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.304060154028925,
+    "timestamp": "2024-05-23 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.978292020914214,
+    "timestamp": "2024-05-23 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.033793526214048,
+    "timestamp": "2024-05-23 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.414183696886724,
+    "timestamp": "2024-05-23 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.236735469813265,
+    "timestamp": "2024-05-23 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.372109113418865,
+    "timestamp": "2024-05-23 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.236995987922725,
+    "timestamp": "2024-05-23 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.682265034741587,
+    "timestamp": "2024-05-23 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.802677699559847,
+    "timestamp": "2024-05-23 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.55514139960283,
+    "timestamp": "2024-05-23 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.905088663117922,
+    "timestamp": "2024-05-23 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.069882063488066,
+    "timestamp": "2024-05-23 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.89795184930502,
+    "timestamp": "2024-05-23 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.58994946494272,
+    "timestamp": "2024-05-23 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.82605946629868,
+    "timestamp": "2024-05-23 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.025612913784286,
+    "timestamp": "2024-05-23 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.155893793107149,
+    "timestamp": "2024-05-23 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.730599010793483,
+    "timestamp": "2024-05-23 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.049176415063073,
+    "timestamp": "2024-05-23 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.75738330863368,
+    "timestamp": "2024-05-23 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.973246160679246,
+    "timestamp": "2024-05-23 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.70099417974536,
+    "timestamp": "2024-05-23 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.208744864868024,
+    "timestamp": "2024-05-23 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.70911891119961,
+    "timestamp": "2024-05-23 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.620974451338007,
+    "timestamp": "2024-05-23 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.20986491172109,
+    "timestamp": "2024-05-23 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.542513380089105,
+    "timestamp": "2024-05-23 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.235260770950415,
+    "timestamp": "2024-05-23 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.548512511703542,
+    "timestamp": "2024-05-23 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.1445041194808,
+    "timestamp": "2024-05-23 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.235218870190435,
+    "timestamp": "2024-05-23 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.76618063324169,
+    "timestamp": "2024-05-23 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.779552363445902,
+    "timestamp": "2024-05-23 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.522841544661773,
+    "timestamp": "2024-05-23 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.454004536113374,
+    "timestamp": "2024-05-23 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.43175221533489,
+    "timestamp": "2024-05-23 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.59767386539639,
+    "timestamp": "2024-05-23 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.096163854447838,
+    "timestamp": "2024-05-23 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.361492715012858,
+    "timestamp": "2024-05-23 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.192579401595758,
+    "timestamp": "2024-05-23 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.171092388851033,
+    "timestamp": "2024-05-23 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.71774288981495,
+    "timestamp": "2024-05-23 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.00028825357913,
+    "timestamp": "2024-05-23 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.575440840103,
+    "timestamp": "2024-05-23 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.74576311438874,
+    "timestamp": "2024-05-23 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.801701123118175,
+    "timestamp": "2024-05-23 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.887720704857415,
+    "timestamp": "2024-05-23 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.625199417611658,
+    "timestamp": "2024-05-23 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.427792765976204,
+    "timestamp": "2024-05-23 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.9411878138784,
+    "timestamp": "2024-05-23 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.444425871815987,
+    "timestamp": "2024-05-23 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.581799537573616,
+    "timestamp": "2024-05-23 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.002154248133674,
+    "timestamp": "2024-05-23 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.671657194551383,
+    "timestamp": "2024-05-23 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.224238039992123,
+    "timestamp": "2024-05-23 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.689987567409812,
+    "timestamp": "2024-05-23 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.978870668683177,
+    "timestamp": "2024-05-23 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.509452857553597,
+    "timestamp": "2024-05-23 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.832408046766044,
+    "timestamp": "2024-05-23 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.889276766846123,
+    "timestamp": "2024-05-23 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.208910060532006,
+    "timestamp": "2024-05-23 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.780588335488492,
+    "timestamp": "2024-05-23 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.05328078253202,
+    "timestamp": "2024-05-23 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.688550809867657,
+    "timestamp": "2024-05-23 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.18787758564946,
+    "timestamp": "2024-05-23 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.870389219902112,
+    "timestamp": "2024-05-23 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.75481930916276,
+    "timestamp": "2024-05-23 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.381815789616597,
+    "timestamp": "2024-05-23 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.97228922138495,
+    "timestamp": "2024-05-23 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.444592580788818,
+    "timestamp": "2024-05-23 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.225375471743412,
+    "timestamp": "2024-05-23 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.324453994126383,
+    "timestamp": "2024-05-23 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.40352572239431,
+    "timestamp": "2024-05-23 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.63046795031149,
+    "timestamp": "2024-05-23 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.56678650912719,
+    "timestamp": "2024-05-23 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.94347186697982,
+    "timestamp": "2024-05-23 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.669864901941963,
+    "timestamp": "2024-05-24 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.504842321833493,
+    "timestamp": "2024-05-24 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.260198463814447,
+    "timestamp": "2024-05-24 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.239367135996961,
+    "timestamp": "2024-05-24 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.314400317557897,
+    "timestamp": "2024-05-24 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.28620685263733,
+    "timestamp": "2024-05-24 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.033174061861743,
+    "timestamp": "2024-05-24 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.560662684346937,
+    "timestamp": "2024-05-24 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.233711654526576,
+    "timestamp": "2024-05-24 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.80429703044437,
+    "timestamp": "2024-05-24 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.18156940368631,
+    "timestamp": "2024-05-24 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.882522939313077,
+    "timestamp": "2024-05-24 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.059911747067996,
+    "timestamp": "2024-05-24 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.067629909108536,
+    "timestamp": "2024-05-24 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.773442190172098,
+    "timestamp": "2024-05-24 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.533844001925303,
+    "timestamp": "2024-05-24 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.729003895085128,
+    "timestamp": "2024-05-24 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.240326945697198,
+    "timestamp": "2024-05-24 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.43927239217232,
+    "timestamp": "2024-05-24 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.696758042975425,
+    "timestamp": "2024-05-24 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.847904898134276,
+    "timestamp": "2024-05-24 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.529151910458864,
+    "timestamp": "2024-05-24 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.3987846158382,
+    "timestamp": "2024-05-24 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.98885781658264,
+    "timestamp": "2024-05-24 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.455230782510057,
+    "timestamp": "2024-05-24 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.19472411221424,
+    "timestamp": "2024-05-24 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.947919823796692,
+    "timestamp": "2024-05-24 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.14573635970018,
+    "timestamp": "2024-05-24 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.43517328875422,
+    "timestamp": "2024-05-24 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.787896685737543,
+    "timestamp": "2024-05-24 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.086807166182695,
+    "timestamp": "2024-05-24 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.86795299846236,
+    "timestamp": "2024-05-24 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.043916988894438,
+    "timestamp": "2024-05-24 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.5090526020604,
+    "timestamp": "2024-05-24 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.50677303231201,
+    "timestamp": "2024-05-24 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.64246166361926,
+    "timestamp": "2024-05-24 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.267116942641028,
+    "timestamp": "2024-05-24 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.87090697582328,
+    "timestamp": "2024-05-24 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.204531737688015,
+    "timestamp": "2024-05-24 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.822807821247663,
+    "timestamp": "2024-05-24 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.11915761306951,
+    "timestamp": "2024-05-24 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.06119485349074,
+    "timestamp": "2024-05-24 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.002220136382466,
+    "timestamp": "2024-05-24 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.396729773161447,
+    "timestamp": "2024-05-24 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.914117506415606,
+    "timestamp": "2024-05-24 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.957272098387406,
+    "timestamp": "2024-05-24 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.943428833852625,
+    "timestamp": "2024-05-24 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.127085513492425,
+    "timestamp": "2024-05-24 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.466873791317598,
+    "timestamp": "2024-05-24 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.643230505313515,
+    "timestamp": "2024-05-24 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.08514903161398,
+    "timestamp": "2024-05-24 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.041358110330707,
+    "timestamp": "2024-05-24 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.803923500537667,
+    "timestamp": "2024-05-24 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.3372630010564,
+    "timestamp": "2024-05-24 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.628985362004606,
+    "timestamp": "2024-05-24 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.49310591367587,
+    "timestamp": "2024-05-24 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.407457232497872,
+    "timestamp": "2024-05-24 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.944333325139205,
+    "timestamp": "2024-05-24 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.628662713003102,
+    "timestamp": "2024-05-24 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.90134784197474,
+    "timestamp": "2024-05-24 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.81475074286363,
+    "timestamp": "2024-05-24 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.331546598788417,
+    "timestamp": "2024-05-24 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.79862519726707,
+    "timestamp": "2024-05-24 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.602526595426824,
+    "timestamp": "2024-05-24 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.153296609548317,
+    "timestamp": "2024-05-24 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.45736360063512,
+    "timestamp": "2024-05-24 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.673859122219596,
+    "timestamp": "2024-05-24 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.9348337106944,
+    "timestamp": "2024-05-24 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.514910304248897,
+    "timestamp": "2024-05-24 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.90979826558422,
+    "timestamp": "2024-05-24 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.631528870284093,
+    "timestamp": "2024-05-24 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.055665808714796,
+    "timestamp": "2024-05-24 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.866404123054792,
+    "timestamp": "2024-05-24 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.46792969883404,
+    "timestamp": "2024-05-24 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.711666874851957,
+    "timestamp": "2024-05-24 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.397912286740535,
+    "timestamp": "2024-05-24 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.006105462360944,
+    "timestamp": "2024-05-24 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.845499069847808,
+    "timestamp": "2024-05-24 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.266530038773695,
+    "timestamp": "2024-05-24 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.089681511838737,
+    "timestamp": "2024-05-24 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.700905995991093,
+    "timestamp": "2024-05-24 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.777107741881405,
+    "timestamp": "2024-05-24 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.17020330982658,
+    "timestamp": "2024-05-24 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.010083566509163,
+    "timestamp": "2024-05-24 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.093933438479688,
+    "timestamp": "2024-05-24 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.142041063874506,
+    "timestamp": "2024-05-24 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.986465065256155,
+    "timestamp": "2024-05-24 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.444015377345224,
+    "timestamp": "2024-05-24 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.234769057695637,
+    "timestamp": "2024-05-24 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.169642959003347,
+    "timestamp": "2024-05-24 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.014956771890308,
+    "timestamp": "2024-05-24 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.183773064179448,
+    "timestamp": "2024-05-24 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.485119405831878,
+    "timestamp": "2024-05-24 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.443752655233778,
+    "timestamp": "2024-05-24 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.2368629872863,
+    "timestamp": "2024-05-24 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.71397727067628,
+    "timestamp": "2024-05-24 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.327300397256273,
+    "timestamp": "2024-05-24 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.67193700908631,
+    "timestamp": "2024-05-24 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.54448739744307,
+    "timestamp": "2024-05-24 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.525914635266858,
+    "timestamp": "2024-05-24 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.12313999113289,
+    "timestamp": "2024-05-24 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.114716136294422,
+    "timestamp": "2024-05-24 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.375423291035744,
+    "timestamp": "2024-05-24 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.296343379234418,
+    "timestamp": "2024-05-24 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.492361774021031,
+    "timestamp": "2024-05-24 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.750865825921423,
+    "timestamp": "2024-05-24 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.2818936403484,
+    "timestamp": "2024-05-24 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.944233664663752,
+    "timestamp": "2024-05-24 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.526199512254074,
+    "timestamp": "2024-05-24 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.323013636034013,
+    "timestamp": "2024-05-24 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.833326107076733,
+    "timestamp": "2024-05-24 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.806623994169339,
+    "timestamp": "2024-05-24 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.29328499990686,
+    "timestamp": "2024-05-24 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.032939317499835,
+    "timestamp": "2024-05-24 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.230869537499245,
+    "timestamp": "2024-05-24 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.608433068564864,
+    "timestamp": "2024-05-24 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.401456758102945,
+    "timestamp": "2024-05-24 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.14890174592977,
+    "timestamp": "2024-05-24 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.58443720479327,
+    "timestamp": "2024-05-24 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.785533953382902,
+    "timestamp": "2024-05-24 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.300234243834904,
+    "timestamp": "2024-05-24 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.08722891656011,
+    "timestamp": "2024-05-24 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.95101535704157,
+    "timestamp": "2024-05-24 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.077883453393753,
+    "timestamp": "2024-05-24 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.929869037398852,
+    "timestamp": "2024-05-24 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.570931511735957,
+    "timestamp": "2024-05-24 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.067480700786524,
+    "timestamp": "2024-05-24 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.046240183642716,
+    "timestamp": "2024-05-24 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.62552984921463,
+    "timestamp": "2024-05-24 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.75790106521176,
+    "timestamp": "2024-05-24 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.176840326544504,
+    "timestamp": "2024-05-24 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.000159890161605,
+    "timestamp": "2024-05-24 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.520333513330904,
+    "timestamp": "2024-05-24 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.98630091677785,
+    "timestamp": "2024-05-24 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.04301796666184,
+    "timestamp": "2024-05-24 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.858028534412295,
+    "timestamp": "2024-05-24 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.451745962825743,
+    "timestamp": "2024-05-24 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.873871508104033,
+    "timestamp": "2024-05-24 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.835004113830735,
+    "timestamp": "2024-05-24 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.321203519934798,
+    "timestamp": "2024-05-24 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.39746757082817,
+    "timestamp": "2024-05-24 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.310984046809658,
+    "timestamp": "2024-05-24 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.061294463794617,
+    "timestamp": "2024-05-24 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.97959966533394,
+    "timestamp": "2024-05-24 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.64743433192578,
+    "timestamp": "2024-05-25 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.5968829088638,
+    "timestamp": "2024-05-25 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.6857200718369,
+    "timestamp": "2024-05-25 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.974332470991882,
+    "timestamp": "2024-05-25 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.1417677594017,
+    "timestamp": "2024-05-25 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.764697979888915,
+    "timestamp": "2024-05-25 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.89214659184706,
+    "timestamp": "2024-05-25 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.542119791521763,
+    "timestamp": "2024-05-25 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.91434337637127,
+    "timestamp": "2024-05-25 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.214683700681086,
+    "timestamp": "2024-05-25 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.404668186432733,
+    "timestamp": "2024-05-25 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.82947757619943,
+    "timestamp": "2024-05-25 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.24104381353908,
+    "timestamp": "2024-05-25 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.647423429333475,
+    "timestamp": "2024-05-25 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.972781056860562,
+    "timestamp": "2024-05-25 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.80334447870323,
+    "timestamp": "2024-05-25 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.324706178334306,
+    "timestamp": "2024-05-25 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.063229605963272,
+    "timestamp": "2024-05-25 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.67777314383431,
+    "timestamp": "2024-05-25 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.193543091950477,
+    "timestamp": "2024-05-25 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.86500528806735,
+    "timestamp": "2024-05-25 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.94474025209869,
+    "timestamp": "2024-05-25 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.69799715392736,
+    "timestamp": "2024-05-25 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.117505725528009,
+    "timestamp": "2024-05-25 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.72921506788113,
+    "timestamp": "2024-05-25 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.19355085140692,
+    "timestamp": "2024-05-25 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.172217546289797,
+    "timestamp": "2024-05-25 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.014557512868116,
+    "timestamp": "2024-05-25 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.49287883847084,
+    "timestamp": "2024-05-25 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.241832450384578,
+    "timestamp": "2024-05-25 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.953492876431532,
+    "timestamp": "2024-05-25 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.026703779575081,
+    "timestamp": "2024-05-25 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.826130145355208,
+    "timestamp": "2024-05-25 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.638364844177072,
+    "timestamp": "2024-05-25 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.726179488868333,
+    "timestamp": "2024-05-25 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.476556515274396,
+    "timestamp": "2024-05-25 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.432684772625205,
+    "timestamp": "2024-05-25 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.67859892015425,
+    "timestamp": "2024-05-25 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.196747882528612,
+    "timestamp": "2024-05-25 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.799398056436704,
+    "timestamp": "2024-05-25 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.036764738126635,
+    "timestamp": "2024-05-25 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.802874462524652,
+    "timestamp": "2024-05-25 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.213976731716674,
+    "timestamp": "2024-05-25 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.211134159027885,
+    "timestamp": "2024-05-25 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.320066056673467,
+    "timestamp": "2024-05-25 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.875365760788316,
+    "timestamp": "2024-05-25 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.216223777443219,
+    "timestamp": "2024-05-25 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.02555425777669,
+    "timestamp": "2024-05-25 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.06103955248218,
+    "timestamp": "2024-05-25 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.888389030461855,
+    "timestamp": "2024-05-25 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.90266273276996,
+    "timestamp": "2024-05-25 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.48724670797347,
+    "timestamp": "2024-05-25 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.933354451717577,
+    "timestamp": "2024-05-25 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.28531335905377,
+    "timestamp": "2024-05-25 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.743691757962484,
+    "timestamp": "2024-05-25 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.055257542785686,
+    "timestamp": "2024-05-25 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.549152594436507,
+    "timestamp": "2024-05-25 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.933150254585403,
+    "timestamp": "2024-05-25 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.05854190036164,
+    "timestamp": "2024-05-25 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.1339530108068,
+    "timestamp": "2024-05-25 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.731539794747134,
+    "timestamp": "2024-05-25 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.535298932590063,
+    "timestamp": "2024-05-25 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.876244225286097,
+    "timestamp": "2024-05-25 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.097777569174715,
+    "timestamp": "2024-05-25 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.485017136052157,
+    "timestamp": "2024-05-25 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.599026444867059,
+    "timestamp": "2024-05-25 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.631611260151587,
+    "timestamp": "2024-05-25 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.162788217207847,
+    "timestamp": "2024-05-25 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.00822968967602,
+    "timestamp": "2024-05-25 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.810776546058467,
+    "timestamp": "2024-05-25 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.720672749298597,
+    "timestamp": "2024-05-25 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.388398662904187,
+    "timestamp": "2024-05-25 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.411106005977782,
+    "timestamp": "2024-05-25 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.121219153163956,
+    "timestamp": "2024-05-25 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.322109159846523,
+    "timestamp": "2024-05-25 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.958367674067215,
+    "timestamp": "2024-05-25 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.49040044282294,
+    "timestamp": "2024-05-25 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.532519894919655,
+    "timestamp": "2024-05-25 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.372168117111485,
+    "timestamp": "2024-05-25 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.71956317561842,
+    "timestamp": "2024-05-25 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.219874548373138,
+    "timestamp": "2024-05-25 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.88872147120964,
+    "timestamp": "2024-05-25 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.028891464278615,
+    "timestamp": "2024-05-25 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.576269752920599,
+    "timestamp": "2024-05-25 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.479098409644514,
+    "timestamp": "2024-05-25 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.526100778846176,
+    "timestamp": "2024-05-25 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.46568812819877,
+    "timestamp": "2024-05-25 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.55136479037622,
+    "timestamp": "2024-05-25 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.419435837078865,
+    "timestamp": "2024-05-25 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.097746497729968,
+    "timestamp": "2024-05-25 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.824409883035992,
+    "timestamp": "2024-05-25 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.092797933384347,
+    "timestamp": "2024-05-25 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.717541890092884,
+    "timestamp": "2024-05-25 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.153832774831308,
+    "timestamp": "2024-05-25 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.80162806771296,
+    "timestamp": "2024-05-25 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.611963677439697,
+    "timestamp": "2024-05-25 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.397475604547957,
+    "timestamp": "2024-05-25 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.302563194298443,
+    "timestamp": "2024-05-25 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.056493176926722,
+    "timestamp": "2024-05-25 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.49334207394307,
+    "timestamp": "2024-05-25 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.75456512826006,
+    "timestamp": "2024-05-25 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.03846442826306,
+    "timestamp": "2024-05-25 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.566368249019327,
+    "timestamp": "2024-05-25 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.727575075624525,
+    "timestamp": "2024-05-25 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.11064248765454,
+    "timestamp": "2024-05-25 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.636798996885418,
+    "timestamp": "2024-05-25 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.044562205608486,
+    "timestamp": "2024-05-25 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.979114878644918,
+    "timestamp": "2024-05-25 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.18961255914577,
+    "timestamp": "2024-05-25 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.012676334589326,
+    "timestamp": "2024-05-25 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.852979813994494,
+    "timestamp": "2024-05-25 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.487480790122135,
+    "timestamp": "2024-05-25 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.344438096940841,
+    "timestamp": "2024-05-25 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.322399120458858,
+    "timestamp": "2024-05-25 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.519253342924372,
+    "timestamp": "2024-05-25 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.012297614718932,
+    "timestamp": "2024-05-25 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.029633305376212,
+    "timestamp": "2024-05-25 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.30442649133304,
+    "timestamp": "2024-05-25 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.06440340570822,
+    "timestamp": "2024-05-25 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.64699694850261,
+    "timestamp": "2024-05-25 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.738974885599987,
+    "timestamp": "2024-05-25 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.201434597410918,
+    "timestamp": "2024-05-25 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.037234554189155,
+    "timestamp": "2024-05-25 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.723420582087513,
+    "timestamp": "2024-05-25 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.47169932658797,
+    "timestamp": "2024-05-25 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.91110264097976,
+    "timestamp": "2024-05-25 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.371894876510673,
+    "timestamp": "2024-05-25 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.275797465837403,
+    "timestamp": "2024-05-25 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.462874923880072,
+    "timestamp": "2024-05-25 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.645699414670833,
+    "timestamp": "2024-05-25 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.920803245470623,
+    "timestamp": "2024-05-25 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.447845389401998,
+    "timestamp": "2024-05-25 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.937478997864652,
+    "timestamp": "2024-05-25 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.00477861580812,
+    "timestamp": "2024-05-25 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.301975141828247,
+    "timestamp": "2024-05-25 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.754467761457558,
+    "timestamp": "2024-05-25 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.780344507934576,
+    "timestamp": "2024-05-25 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.494313865894506,
+    "timestamp": "2024-05-25 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.632358873917667,
+    "timestamp": "2024-05-25 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.765678523718687,
+    "timestamp": "2024-05-25 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.77212898782566,
+    "timestamp": "2024-05-25 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.633740251854867,
+    "timestamp": "2024-05-25 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.479500455776375,
+    "timestamp": "2024-05-25 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.702857175483157,
+    "timestamp": "2024-05-25 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.275795440758344,
+    "timestamp": "2024-05-26 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.59886132586728,
+    "timestamp": "2024-05-26 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.332064791708035,
+    "timestamp": "2024-05-26 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.463939264260844,
+    "timestamp": "2024-05-26 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.55831033989557,
+    "timestamp": "2024-05-26 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.524385668901715,
+    "timestamp": "2024-05-26 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.307465132381921,
+    "timestamp": "2024-05-26 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.591002710271365,
+    "timestamp": "2024-05-26 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.286232840025033,
+    "timestamp": "2024-05-26 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.169391573757046,
+    "timestamp": "2024-05-26 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.568027747068365,
+    "timestamp": "2024-05-26 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.235678867733956,
+    "timestamp": "2024-05-26 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.48905354803027,
+    "timestamp": "2024-05-26 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.912428894588306,
+    "timestamp": "2024-05-26 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.962782646192654,
+    "timestamp": "2024-05-26 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.987378168739152,
+    "timestamp": "2024-05-26 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.387966747425207,
+    "timestamp": "2024-05-26 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.329589987195053,
+    "timestamp": "2024-05-26 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.59775532961408,
+    "timestamp": "2024-05-26 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.72675170485848,
+    "timestamp": "2024-05-26 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.959427044906931,
+    "timestamp": "2024-05-26 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.851387421109646,
+    "timestamp": "2024-05-26 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.47757197557096,
+    "timestamp": "2024-05-26 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.035270605041099,
+    "timestamp": "2024-05-26 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.239948427843975,
+    "timestamp": "2024-05-26 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.78764845466948,
+    "timestamp": "2024-05-26 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.51499902115752,
+    "timestamp": "2024-05-26 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.045489701952697,
+    "timestamp": "2024-05-26 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.053897516412725,
+    "timestamp": "2024-05-26 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.953785083076973,
+    "timestamp": "2024-05-26 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.071221624476888,
+    "timestamp": "2024-05-26 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.835117870788306,
+    "timestamp": "2024-05-26 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.75270870636122,
+    "timestamp": "2024-05-26 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.454318636418062,
+    "timestamp": "2024-05-26 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.43785943229492,
+    "timestamp": "2024-05-26 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.466907284529626,
+    "timestamp": "2024-05-26 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.765006320529215,
+    "timestamp": "2024-05-26 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.164230900686935,
+    "timestamp": "2024-05-26 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.42410640762361,
+    "timestamp": "2024-05-26 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.309164437678547,
+    "timestamp": "2024-05-26 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.245015716077717,
+    "timestamp": "2024-05-26 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.473467781221316,
+    "timestamp": "2024-05-26 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.894472113800816,
+    "timestamp": "2024-05-26 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.713876250138455,
+    "timestamp": "2024-05-26 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.988196809293976,
+    "timestamp": "2024-05-26 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.1658905690133,
+    "timestamp": "2024-05-26 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.400060981595416,
+    "timestamp": "2024-05-26 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.225059280023812,
+    "timestamp": "2024-05-26 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.924711538780663,
+    "timestamp": "2024-05-26 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.409004281923067,
+    "timestamp": "2024-05-26 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.262345856826684,
+    "timestamp": "2024-05-26 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.326971612942804,
+    "timestamp": "2024-05-26 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.420814229669546,
+    "timestamp": "2024-05-26 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.47742783175951,
+    "timestamp": "2024-05-26 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.50122877908512,
+    "timestamp": "2024-05-26 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.745108983492027,
+    "timestamp": "2024-05-26 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.77213418686963,
+    "timestamp": "2024-05-26 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.46398746207514,
+    "timestamp": "2024-05-26 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.658862862811297,
+    "timestamp": "2024-05-26 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.356214459700965,
+    "timestamp": "2024-05-26 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.800977407271137,
+    "timestamp": "2024-05-26 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.903237205703274,
+    "timestamp": "2024-05-26 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.607632568818772,
+    "timestamp": "2024-05-26 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.223918248778077,
+    "timestamp": "2024-05-26 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.208022559207794,
+    "timestamp": "2024-05-26 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.342239811262186,
+    "timestamp": "2024-05-26 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.28570158038991,
+    "timestamp": "2024-05-26 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.893603498209984,
+    "timestamp": "2024-05-26 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.60593793121245,
+    "timestamp": "2024-05-26 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.672419892774258,
+    "timestamp": "2024-05-26 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.129984286008613,
+    "timestamp": "2024-05-26 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.195994999715579,
+    "timestamp": "2024-05-26 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.760791172248542,
+    "timestamp": "2024-05-26 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.00251983987919,
+    "timestamp": "2024-05-26 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.262387149056337,
+    "timestamp": "2024-05-26 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.626787222781742,
+    "timestamp": "2024-05-26 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.697106681109716,
+    "timestamp": "2024-05-26 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.812944082619588,
+    "timestamp": "2024-05-26 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.698962091198958,
+    "timestamp": "2024-05-26 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.181266322431945,
+    "timestamp": "2024-05-26 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.3335588352969,
+    "timestamp": "2024-05-26 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.8166052847254,
+    "timestamp": "2024-05-26 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.815942224594494,
+    "timestamp": "2024-05-26 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.248671926284533,
+    "timestamp": "2024-05-26 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.520352839207053,
+    "timestamp": "2024-05-26 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.602098806838633,
+    "timestamp": "2024-05-26 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.45795984380835,
+    "timestamp": "2024-05-26 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.574736417437245,
+    "timestamp": "2024-05-26 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.338022250860181,
+    "timestamp": "2024-05-26 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.06725000792981,
+    "timestamp": "2024-05-26 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.715169360383868,
+    "timestamp": "2024-05-26 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.831580811067262,
+    "timestamp": "2024-05-26 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.88700456552866,
+    "timestamp": "2024-05-26 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.000829366492432,
+    "timestamp": "2024-05-26 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.565598041759234,
+    "timestamp": "2024-05-26 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.499091250994317,
+    "timestamp": "2024-05-26 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.141942917391358,
+    "timestamp": "2024-05-26 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.874105943981192,
+    "timestamp": "2024-05-26 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.04491493865949,
+    "timestamp": "2024-05-26 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.929100560858455,
+    "timestamp": "2024-05-26 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.748551424288664,
+    "timestamp": "2024-05-26 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.725571276045525,
+    "timestamp": "2024-05-26 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.57548816152935,
+    "timestamp": "2024-05-26 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.352937228658114,
+    "timestamp": "2024-05-26 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.142674996480082,
+    "timestamp": "2024-05-26 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.816415874518622,
+    "timestamp": "2024-05-26 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.153741974967197,
+    "timestamp": "2024-05-26 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.314580214575326,
+    "timestamp": "2024-05-26 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.767601249038833,
+    "timestamp": "2024-05-26 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.012704255299987,
+    "timestamp": "2024-05-26 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.93025792018971,
+    "timestamp": "2024-05-26 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.447802536593883,
+    "timestamp": "2024-05-26 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.864591921448273,
+    "timestamp": "2024-05-26 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.248656402685018,
+    "timestamp": "2024-05-26 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.031491194247934,
+    "timestamp": "2024-05-26 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.769142609184428,
+    "timestamp": "2024-05-26 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.27988518926203,
+    "timestamp": "2024-05-26 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.44063853420843,
+    "timestamp": "2024-05-26 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.645294347239354,
+    "timestamp": "2024-05-26 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.636086853840233,
+    "timestamp": "2024-05-26 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.419106788201525,
+    "timestamp": "2024-05-26 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.09327212031529,
+    "timestamp": "2024-05-26 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.911880871828096,
+    "timestamp": "2024-05-26 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.47999432320466,
+    "timestamp": "2024-05-26 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.49865072547128,
+    "timestamp": "2024-05-26 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.19065826267555,
+    "timestamp": "2024-05-26 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.077535373786873,
+    "timestamp": "2024-05-26 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.755212840483832,
+    "timestamp": "2024-05-26 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.10937725506313,
+    "timestamp": "2024-05-26 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.771752343886769,
+    "timestamp": "2024-05-26 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.841646640757498,
+    "timestamp": "2024-05-26 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.16112830417174,
+    "timestamp": "2024-05-26 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.364363140123928,
+    "timestamp": "2024-05-26 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.96448542675224,
+    "timestamp": "2024-05-26 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.64792034622924,
+    "timestamp": "2024-05-26 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.8469923544601,
+    "timestamp": "2024-05-26 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.383295650699637,
+    "timestamp": "2024-05-26 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.485108994101836,
+    "timestamp": "2024-05-26 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.603375880605267,
+    "timestamp": "2024-05-26 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.51179752928572,
+    "timestamp": "2024-05-26 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.05775105412733,
+    "timestamp": "2024-05-26 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.630571878817307,
+    "timestamp": "2024-05-26 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.303975841721392,
+    "timestamp": "2024-05-26 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.978241181866764,
+    "timestamp": "2024-05-26 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.018917653396947,
+    "timestamp": "2024-05-27 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.403312832721284,
+    "timestamp": "2024-05-27 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.130894065393132,
+    "timestamp": "2024-05-27 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.103118499717205,
+    "timestamp": "2024-05-27 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.46537499655812,
+    "timestamp": "2024-05-27 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.71572885315654,
+    "timestamp": "2024-05-27 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.281381393161087,
+    "timestamp": "2024-05-27 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.517284203573453,
+    "timestamp": "2024-05-27 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.3013103436015,
+    "timestamp": "2024-05-27 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.229692138480118,
+    "timestamp": "2024-05-27 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.28711918016734,
+    "timestamp": "2024-05-27 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.81493373072515,
+    "timestamp": "2024-05-27 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.126080225589865,
+    "timestamp": "2024-05-27 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.562990296867074,
+    "timestamp": "2024-05-27 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.536140346259916,
+    "timestamp": "2024-05-27 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.9594343433072,
+    "timestamp": "2024-05-27 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.396916514620706,
+    "timestamp": "2024-05-27 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.734147583862182,
+    "timestamp": "2024-05-27 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.520361153629615,
+    "timestamp": "2024-05-27 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.606909925876646,
+    "timestamp": "2024-05-27 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.63431135954783,
+    "timestamp": "2024-05-27 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.967234501040473,
+    "timestamp": "2024-05-27 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.340852814266597,
+    "timestamp": "2024-05-27 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.181451835707506,
+    "timestamp": "2024-05-27 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.112576977028827,
+    "timestamp": "2024-05-27 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.597643090949518,
+    "timestamp": "2024-05-27 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.999653441300154,
+    "timestamp": "2024-05-27 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.299011360121007,
+    "timestamp": "2024-05-27 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.65298628043159,
+    "timestamp": "2024-05-27 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.700235420547763,
+    "timestamp": "2024-05-27 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.267279058681535,
+    "timestamp": "2024-05-27 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.213904143156856,
+    "timestamp": "2024-05-27 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.069783358428843,
+    "timestamp": "2024-05-27 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.076367298316974,
+    "timestamp": "2024-05-27 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.35382004052726,
+    "timestamp": "2024-05-27 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.942145848373144,
+    "timestamp": "2024-05-27 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.507240593396492,
+    "timestamp": "2024-05-27 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.267850378760834,
+    "timestamp": "2024-05-27 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.655608261697456,
+    "timestamp": "2024-05-27 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.200261516381264,
+    "timestamp": "2024-05-27 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.862584351309714,
+    "timestamp": "2024-05-27 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.13615805295375,
+    "timestamp": "2024-05-27 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.12110154747233,
+    "timestamp": "2024-05-27 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.783644384264747,
+    "timestamp": "2024-05-27 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.08009742424666,
+    "timestamp": "2024-05-27 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.209716449146324,
+    "timestamp": "2024-05-27 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.916053174139392,
+    "timestamp": "2024-05-27 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.481307669260957,
+    "timestamp": "2024-05-27 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.696590581655494,
+    "timestamp": "2024-05-27 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.057394195690637,
+    "timestamp": "2024-05-27 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.021828069853122,
+    "timestamp": "2024-05-27 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.182393394049235,
+    "timestamp": "2024-05-27 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.66903796343943,
+    "timestamp": "2024-05-27 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.118906705270597,
+    "timestamp": "2024-05-27 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.01010981285298,
+    "timestamp": "2024-05-27 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.626796662713307,
+    "timestamp": "2024-05-27 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.255262102336054,
+    "timestamp": "2024-05-27 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.32858368227092,
+    "timestamp": "2024-05-27 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.728856249835765,
+    "timestamp": "2024-05-27 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.59770513305694,
+    "timestamp": "2024-05-27 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.879720758060255,
+    "timestamp": "2024-05-27 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.8169748382081,
+    "timestamp": "2024-05-27 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.958749732897807,
+    "timestamp": "2024-05-27 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.880375493241086,
+    "timestamp": "2024-05-27 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.156166866394525,
+    "timestamp": "2024-05-27 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.426254605256112,
+    "timestamp": "2024-05-27 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.837841395476083,
+    "timestamp": "2024-05-27 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.485724205049616,
+    "timestamp": "2024-05-27 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.874594623336844,
+    "timestamp": "2024-05-27 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.201296321797454,
+    "timestamp": "2024-05-27 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.922440019613902,
+    "timestamp": "2024-05-27 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.8594145503648,
+    "timestamp": "2024-05-27 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.400212749225519,
+    "timestamp": "2024-05-27 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.440587760112496,
+    "timestamp": "2024-05-27 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.647277448562807,
+    "timestamp": "2024-05-27 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.97774130554017,
+    "timestamp": "2024-05-27 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.709789478390825,
+    "timestamp": "2024-05-27 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.443143393707224,
+    "timestamp": "2024-05-27 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.377015701545584,
+    "timestamp": "2024-05-27 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.154667269782667,
+    "timestamp": "2024-05-27 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.44577928592209,
+    "timestamp": "2024-05-27 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.37574444285744,
+    "timestamp": "2024-05-27 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.942246521342186,
+    "timestamp": "2024-05-27 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.025685181456682,
+    "timestamp": "2024-05-27 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.38956273118297,
+    "timestamp": "2024-05-27 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.584392880640063,
+    "timestamp": "2024-05-27 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.091587620842766,
+    "timestamp": "2024-05-27 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.761669876540367,
+    "timestamp": "2024-05-27 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.625155322700763,
+    "timestamp": "2024-05-27 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.557277976927036,
+    "timestamp": "2024-05-27 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.042215932787837,
+    "timestamp": "2024-05-27 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.56397200849347,
+    "timestamp": "2024-05-27 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.143278716592214,
+    "timestamp": "2024-05-27 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.73284608557274,
+    "timestamp": "2024-05-27 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.147388588662547,
+    "timestamp": "2024-05-27 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.213273455637918,
+    "timestamp": "2024-05-27 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.567014217148069,
+    "timestamp": "2024-05-27 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.183076519849564,
+    "timestamp": "2024-05-27 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.096781419642406,
+    "timestamp": "2024-05-27 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.14027194152332,
+    "timestamp": "2024-05-27 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.669818910259268,
+    "timestamp": "2024-05-27 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.497277726844644,
+    "timestamp": "2024-05-27 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.757702735341743,
+    "timestamp": "2024-05-27 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.021662441007187,
+    "timestamp": "2024-05-27 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.637633573269834,
+    "timestamp": "2024-05-27 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.598509720457685,
+    "timestamp": "2024-05-27 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.64547341497131,
+    "timestamp": "2024-05-27 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.47881007071812,
+    "timestamp": "2024-05-27 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.321714334327677,
+    "timestamp": "2024-05-27 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.383686570429063,
+    "timestamp": "2024-05-27 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.71655316757951,
+    "timestamp": "2024-05-27 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.743901996651747,
+    "timestamp": "2024-05-27 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.03138662134128,
+    "timestamp": "2024-05-27 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.236983402263178,
+    "timestamp": "2024-05-27 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.618151301393599,
+    "timestamp": "2024-05-27 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.716038484243573,
+    "timestamp": "2024-05-27 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.865952692105271,
+    "timestamp": "2024-05-27 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.285811591377371,
+    "timestamp": "2024-05-27 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.583501086414767,
+    "timestamp": "2024-05-27 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.289327150411495,
+    "timestamp": "2024-05-27 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.771372616511826,
+    "timestamp": "2024-05-27 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.294428474050171,
+    "timestamp": "2024-05-27 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.72453989251278,
+    "timestamp": "2024-05-27 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.514113540863136,
+    "timestamp": "2024-05-27 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.798637881660177,
+    "timestamp": "2024-05-27 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.45424435739954,
+    "timestamp": "2024-05-27 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.184471610453919,
+    "timestamp": "2024-05-27 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.646257523659134,
+    "timestamp": "2024-05-27 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.85472200710226,
+    "timestamp": "2024-05-27 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.242757366053503,
+    "timestamp": "2024-05-27 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.262200366356847,
+    "timestamp": "2024-05-27 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.360528199933025,
+    "timestamp": "2024-05-27 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.612849369737937,
+    "timestamp": "2024-05-27 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.487061377459217,
+    "timestamp": "2024-05-27 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.04524079227719,
+    "timestamp": "2024-05-27 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.74918260775202,
+    "timestamp": "2024-05-27 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.65655461504062,
+    "timestamp": "2024-05-27 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.667581662725368,
+    "timestamp": "2024-05-27 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.600528035667836,
+    "timestamp": "2024-05-27 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.971621087845406,
+    "timestamp": "2024-05-27 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.61172596104199,
+    "timestamp": "2024-05-27 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.278700921981516,
+    "timestamp": "2024-05-27 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.472314161827224,
+    "timestamp": "2024-05-27 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.91268457781678,
+    "timestamp": "2024-05-27 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.515230462304803,
+    "timestamp": "2024-05-28 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.09654967700765,
+    "timestamp": "2024-05-28 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.991560538692397,
+    "timestamp": "2024-05-28 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.085479975705105,
+    "timestamp": "2024-05-28 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.79114144173446,
+    "timestamp": "2024-05-28 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.247083154019037,
+    "timestamp": "2024-05-28 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.673242672947367,
+    "timestamp": "2024-05-28 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.35292275953506,
+    "timestamp": "2024-05-28 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.854633683729666,
+    "timestamp": "2024-05-28 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.537950363071182,
+    "timestamp": "2024-05-28 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.032073566795628,
+    "timestamp": "2024-05-28 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.27103102108375,
+    "timestamp": "2024-05-28 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.000244578064827,
+    "timestamp": "2024-05-28 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.548803086614242,
+    "timestamp": "2024-05-28 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.041527241296563,
+    "timestamp": "2024-05-28 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.233425687590042,
+    "timestamp": "2024-05-28 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.922654244751795,
+    "timestamp": "2024-05-28 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.019614996577076,
+    "timestamp": "2024-05-28 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.269284394690617,
+    "timestamp": "2024-05-28 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.956847074165943,
+    "timestamp": "2024-05-28 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.145091488613218,
+    "timestamp": "2024-05-28 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.171563055593403,
+    "timestamp": "2024-05-28 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.475855298847435,
+    "timestamp": "2024-05-28 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.6151022332677,
+    "timestamp": "2024-05-28 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.180443329531302,
+    "timestamp": "2024-05-28 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.9260998293851,
+    "timestamp": "2024-05-28 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.622362077824235,
+    "timestamp": "2024-05-28 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.35366632636687,
+    "timestamp": "2024-05-28 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.376234803910931,
+    "timestamp": "2024-05-28 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.806433572512383,
+    "timestamp": "2024-05-28 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.939571825761604,
+    "timestamp": "2024-05-28 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.912793726901413,
+    "timestamp": "2024-05-28 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.707286970462222,
+    "timestamp": "2024-05-28 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.893275469604184,
+    "timestamp": "2024-05-28 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.28293073412153,
+    "timestamp": "2024-05-28 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.352189788473467,
+    "timestamp": "2024-05-28 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.83301112465469,
+    "timestamp": "2024-05-28 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.990695423725718,
+    "timestamp": "2024-05-28 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.937304559086185,
+    "timestamp": "2024-05-28 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.947784538514156,
+    "timestamp": "2024-05-28 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.71806905977379,
+    "timestamp": "2024-05-28 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.476186935990658,
+    "timestamp": "2024-05-28 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.753610501415032,
+    "timestamp": "2024-05-28 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.917370813511237,
+    "timestamp": "2024-05-28 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.63529158084623,
+    "timestamp": "2024-05-28 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.684657501980436,
+    "timestamp": "2024-05-28 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.27878688201248,
+    "timestamp": "2024-05-28 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.390963074590688,
+    "timestamp": "2024-05-28 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.823702140873394,
+    "timestamp": "2024-05-28 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.39022889273226,
+    "timestamp": "2024-05-28 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.745824091188233,
+    "timestamp": "2024-05-28 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.056441058830695,
+    "timestamp": "2024-05-28 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.24843124486207,
+    "timestamp": "2024-05-28 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.490425043564755,
+    "timestamp": "2024-05-28 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.72962189335717,
+    "timestamp": "2024-05-28 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.341444589883082,
+    "timestamp": "2024-05-28 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.71328022351735,
+    "timestamp": "2024-05-28 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.91532826140358,
+    "timestamp": "2024-05-28 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.492690152751827,
+    "timestamp": "2024-05-28 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.670183482150367,
+    "timestamp": "2024-05-28 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.665234713674177,
+    "timestamp": "2024-05-28 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.101905397339223,
+    "timestamp": "2024-05-28 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.98992511957449,
+    "timestamp": "2024-05-28 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.96901447432148,
+    "timestamp": "2024-05-28 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.584285757963702,
+    "timestamp": "2024-05-28 10:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.719522430681781,
+    "timestamp": "2024-05-28 10:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.049841510235183,
+    "timestamp": "2024-05-28 11:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.757273777764077,
+    "timestamp": "2024-05-28 11:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.26469134797416,
+    "timestamp": "2024-05-28 11:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.650530837133772,
+    "timestamp": "2024-05-28 11:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.644644541253914,
+    "timestamp": "2024-05-28 11:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.39864717187465,
+    "timestamp": "2024-05-28 11:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.334199381700405,
+    "timestamp": "2024-05-28 12:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.596106118428327,
+    "timestamp": "2024-05-28 12:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.101653694440266,
+    "timestamp": "2024-05-28 12:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.803799017945487,
+    "timestamp": "2024-05-28 12:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.34402470269002,
+    "timestamp": "2024-05-28 12:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.730975960197718,
+    "timestamp": "2024-05-28 12:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.132890684126856,
+    "timestamp": "2024-05-28 13:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.843238421612767,
+    "timestamp": "2024-05-28 13:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.373754673486339,
+    "timestamp": "2024-05-28 13:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.44232553700091,
+    "timestamp": "2024-05-28 13:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.425413138348638,
+    "timestamp": "2024-05-28 13:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.203651149802116,
+    "timestamp": "2024-05-28 13:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.665886414572029,
+    "timestamp": "2024-05-28 14:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.409904858944227,
+    "timestamp": "2024-05-28 14:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.680693097910627,
+    "timestamp": "2024-05-28 14:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.334922919856975,
+    "timestamp": "2024-05-28 14:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.151515031680244,
+    "timestamp": "2024-05-28 14:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.68128746952519,
+    "timestamp": "2024-05-28 14:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.232312239735734,
+    "timestamp": "2024-05-28 15:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.604170889860702,
+    "timestamp": "2024-05-28 15:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.812976054027192,
+    "timestamp": "2024-05-28 15:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.33828830094847,
+    "timestamp": "2024-05-28 15:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.767790058925527,
+    "timestamp": "2024-05-28 15:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.494789093763792,
+    "timestamp": "2024-05-28 15:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.141023135479628,
+    "timestamp": "2024-05-28 16:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.5327020249037,
+    "timestamp": "2024-05-28 16:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.412573019097177,
+    "timestamp": "2024-05-28 16:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.20305656524604,
+    "timestamp": "2024-05-28 16:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.621142713456624,
+    "timestamp": "2024-05-28 16:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.778161097257133,
+    "timestamp": "2024-05-28 16:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.168540701433376,
+    "timestamp": "2024-05-28 17:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.296056939857348,
+    "timestamp": "2024-05-28 17:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.326846610829314,
+    "timestamp": "2024-05-28 17:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.334427988298508,
+    "timestamp": "2024-05-28 17:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.602167917346547,
+    "timestamp": "2024-05-28 17:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.625491058452978,
+    "timestamp": "2024-05-28 17:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.730803579423384,
+    "timestamp": "2024-05-28 18:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.172059384613288,
+    "timestamp": "2024-05-28 18:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.285830178162357,
+    "timestamp": "2024-05-28 18:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.105644613752624,
+    "timestamp": "2024-05-28 18:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.816155592383414,
+    "timestamp": "2024-05-28 18:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.572566387490305,
+    "timestamp": "2024-05-28 18:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.94656619803871,
+    "timestamp": "2024-05-28 19:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.115119741407586,
+    "timestamp": "2024-05-28 19:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.21256695792089,
+    "timestamp": "2024-05-28 19:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.499618009818526,
+    "timestamp": "2024-05-28 19:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.044127112951287,
+    "timestamp": "2024-05-28 19:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.081567457636215,
+    "timestamp": "2024-05-28 19:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.202598711124395,
+    "timestamp": "2024-05-28 20:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.66896360779422,
+    "timestamp": "2024-05-28 20:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.670689566730697,
+    "timestamp": "2024-05-28 20:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.999342365649937,
+    "timestamp": "2024-05-28 20:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.141981120721102,
+    "timestamp": "2024-05-28 20:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.52099136875738,
+    "timestamp": "2024-05-28 20:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.12643813566872,
+    "timestamp": "2024-05-28 21:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.621239701108347,
+    "timestamp": "2024-05-28 21:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.04388731321624,
+    "timestamp": "2024-05-28 21:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.317549593206778,
+    "timestamp": "2024-05-28 21:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.63384839457318,
+    "timestamp": "2024-05-28 21:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.163414198793678,
+    "timestamp": "2024-05-28 21:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.721254015052672,
+    "timestamp": "2024-05-28 22:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.91010965894665,
+    "timestamp": "2024-05-28 22:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.35721348329328,
+    "timestamp": "2024-05-28 22:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 11.093269907909754,
+    "timestamp": "2024-05-28 22:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.203693829351955,
+    "timestamp": "2024-05-28 22:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.035357944425265,
+    "timestamp": "2024-05-28 22:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.91735930410005,
+    "timestamp": "2024-05-28 23:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.622062280139776,
+    "timestamp": "2024-05-28 23:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.848928689773196,
+    "timestamp": "2024-05-28 23:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.541054404399922,
+    "timestamp": "2024-05-28 23:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.48805734156864,
+    "timestamp": "2024-05-28 23:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.367477058718293,
+    "timestamp": "2024-05-28 23:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.311474673181824,
+    "timestamp": "2024-05-29 00:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.129404558516754,
+    "timestamp": "2024-05-29 00:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.73844597327737,
+    "timestamp": "2024-05-29 00:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.804860278836635,
+    "timestamp": "2024-05-29 00:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.140521908867242,
+    "timestamp": "2024-05-29 00:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.391322933069887,
+    "timestamp": "2024-05-29 00:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.776266363783122,
+    "timestamp": "2024-05-29 01:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 15.453007684388583,
+    "timestamp": "2024-05-29 01:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.16669823631581,
+    "timestamp": "2024-05-29 01:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.916621006678625,
+    "timestamp": "2024-05-29 01:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.13652212133052,
+    "timestamp": "2024-05-29 01:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.056909970292667,
+    "timestamp": "2024-05-29 01:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.30024898320704,
+    "timestamp": "2024-05-29 02:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.20915572491027,
+    "timestamp": "2024-05-29 02:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.14221426254444,
+    "timestamp": "2024-05-29 02:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.188752453901575,
+    "timestamp": "2024-05-29 02:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.816330001827374,
+    "timestamp": "2024-05-29 02:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.27944426890577,
+    "timestamp": "2024-05-29 02:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.01446700303518,
+    "timestamp": "2024-05-29 03:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 28.410287249272113,
+    "timestamp": "2024-05-29 03:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.25576614111627,
+    "timestamp": "2024-05-29 03:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.0776497590654,
+    "timestamp": "2024-05-29 03:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.609495338452646,
+    "timestamp": "2024-05-29 03:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.658516929838951,
+    "timestamp": "2024-05-29 03:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.117127031201065,
+    "timestamp": "2024-05-29 04:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.914424490867113,
+    "timestamp": "2024-05-29 04:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.748250929278303,
+    "timestamp": "2024-05-29 04:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.413074406654712,
+    "timestamp": "2024-05-29 04:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.189173864635258,
+    "timestamp": "2024-05-29 04:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 17.806041021543088,
+    "timestamp": "2024-05-29 04:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 12.020345112303499,
+    "timestamp": "2024-05-29 05:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.960022161815232,
+    "timestamp": "2024-05-29 05:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.977666964426106,
+    "timestamp": "2024-05-29 05:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 22.879480050454607,
+    "timestamp": "2024-05-29 05:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.255091251831473,
+    "timestamp": "2024-05-29 05:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.995928614821416,
+    "timestamp": "2024-05-29 05:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.28881651875446,
+    "timestamp": "2024-05-29 06:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.920587421031566,
+    "timestamp": "2024-05-29 06:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.65759726658758,
+    "timestamp": "2024-05-29 06:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 24.400629516082848,
+    "timestamp": "2024-05-29 06:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 25.043242425320653,
+    "timestamp": "2024-05-29 06:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.339793033825337,
+    "timestamp": "2024-05-29 06:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 26.97941775301228,
+    "timestamp": "2024-05-29 07:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 16.20077244161436,
+    "timestamp": "2024-05-29 07:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.311492064061644,
+    "timestamp": "2024-05-29 07:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.178366152786042,
+    "timestamp": "2024-05-29 07:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.024702994831436,
+    "timestamp": "2024-05-29 07:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.522830464526848,
+    "timestamp": "2024-05-29 07:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.637495507939843,
+    "timestamp": "2024-05-29 08:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 10.466289685923142,
+    "timestamp": "2024-05-29 08:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.69916875005813,
+    "timestamp": "2024-05-29 08:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.62903657210597,
+    "timestamp": "2024-05-29 08:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.187590267979175,
+    "timestamp": "2024-05-29 08:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 27.563660393927837,
+    "timestamp": "2024-05-29 08:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 21.85224761074359,
+    "timestamp": "2024-05-29 09:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.537988297714257,
+    "timestamp": "2024-05-29 09:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.316598059303935,
+    "timestamp": "2024-05-29 09:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.25049195600425,
+    "timestamp": "2024-05-29 09:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 13.138190872722205,
+    "timestamp": "2024-05-29 09:48:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 20.00010779192463,
+    "timestamp": "2024-05-29 09:58:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 18.961705486714038,
+    "timestamp": "2024-05-29 10:08:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 19.621323115736605,
+    "timestamp": "2024-05-29 10:18:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 29.131143667925226,
+    "timestamp": "2024-05-29 10:28:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 14.217040885486574,
+    "timestamp": "2024-05-29 10:38:11.675594"
+  },
+  {
+    "sensorId": 2,
+    "type": "temperature",
+    "value": 23.424618495168684,
+    "timestamp": "2024-05-29 10:48:11.675594"
+  }
+]

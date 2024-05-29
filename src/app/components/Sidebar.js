@@ -11,10 +11,9 @@ import { useSidebar } from '@/app/context/SidebarContext';
 // Theme taken from https://flowbite-react.com/docs/components/sidebar#theme
 const customSidebarTheme = {
   "root": {
-    "base": "fixed top-0 left-0 z-40 w-64 h-screen transition-all",
+    "base": "fixed top-0 left-0 z-40 w-64 min-h-screen h-full transition-all",
   }
 };
-
 
 const DashboardSidebar = () => {
   const { isSidebarOpen, toggleSidebar } = useSidebar();

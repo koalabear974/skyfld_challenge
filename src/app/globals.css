@@ -27,6 +27,11 @@ body {
 /* Fix for color not being set on dark mode*/
 .apexcharts-tooltip-text {
   color: black !important;
+  text-transform: capitalize;
+}
+
+.dark input[type="time"]::-webkit-calendar-picker-indicator{
+  filter: invert(90%);
 }
 
 @layer utilities {
