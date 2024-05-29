@@ -6,12 +6,25 @@ export async function GET(request) {
   try {
     // Get the filename from query parameters or default to 'sensors'
     const fileName = request.nextUrl.searchParams.get("sensorId") || 'sensors';
+    const startDateParam = request.nextUrl.searchParams.get("startDate");
+    const endDateParam = request.nextUrl.searchParams.get("endDate");
+    const startDate = startDateParam ? new Date(startDateParam) : null;
+    const endDate = endDateParam ? new Date(endDateParam) : null;
 
     // Read the sensor data from the specified file
     const sensors = await readFile(fileName);
 
+    // Filter data based on startdate and enddate
+    const filteredSensorData = sensors.filter(sensor => {
+      const timestamp = new Date(sensor.timestamp);
+      if (startDate && timestamp < startDate) return false;
+      if (endDate && timestamp > endDate) return false;
+      return true;
+    });
+
+
     // Return the sensor data as a JSON response
-    return NextResponse.json(sensors || []);
+    return NextResponse.json(filteredSensorData || []);
   } catch (error) {
     // Handle any errors that occur during the read operation
     return NextResponse.json({error: 'Failed to retrieve data'}, {status: 500});
