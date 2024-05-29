@@ -11,7 +11,7 @@ const DashboardBoxWrapper = ({className, title = '', subTitle = '', children}) =
             </h5>
           )}
           {subTitle !== '' && (
-            <p className="text-base font-normal text-gray-500 dark:text-gray-400">
+            <p className="text-base font-normal text-gray-500 dark:text-gray-400 first-letter:uppercase mb-4">
               {subTitle}
             </p>
           )}

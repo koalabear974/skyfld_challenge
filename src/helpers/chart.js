@@ -72,7 +72,7 @@ export const getChartStyling = (data = []) => {
   };
 }
 
-export const generateChartSeries = (data) => {
+export const generateChartSeries = (data, chartColor = '#33B2DF') => {
   if (!data || data.length === 0) return [];
 
   const seriesMap = {};
@@ -89,7 +89,7 @@ export const generateChartSeries = (data) => {
   const series = Object.keys(seriesMap).map(type => ({
     name: type,
     data: seriesMap[type],
-    // You can set a color or other properties here if needed
+    color: chartColor
   }));
 
   return series;

@@ -3,10 +3,10 @@ import { Sidebar, useThemeMode } from "flowbite-react";
 import {
   HiChartPie,
   HiMenuAlt2,
-  HiOutlineMoon,
+  HiOutlineMoon, HiOutlinePlusCircle,
   HiOutlineSun
 } from "react-icons/hi";
-import { useSidebar } from '@/app/context/SidebarContext';
+import { useSidebar } from '@/context/SidebarContext';
 
 // Theme taken from https://flowbite-react.com/docs/components/sidebar#theme
 const customSidebarTheme = {
@@ -35,8 +35,11 @@ const DashboardSidebar = () => {
             </Sidebar.Item>
           </Sidebar.ItemGroup>
           <Sidebar.ItemGroup>
-            <Sidebar.Item href="#" icon={HiChartPie}>
+            <Sidebar.Item href="/" icon={HiChartPie}>
               Dashboard
+            </Sidebar.Item>
+            <Sidebar.Item href="/add-data" icon={HiOutlinePlusCircle}>
+              Add data
             </Sidebar.Item>
           </Sidebar.ItemGroup>
           <Sidebar.ItemGroup>

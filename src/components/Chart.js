@@ -1,5 +1,5 @@
 "use client";
-import ApexChart from "@/app/components/ApexChart";
+import ApexChart from "@/components/ApexChart";
 import { getChartStyling } from "@/helpers/chart";
 
 const Chart = () => {

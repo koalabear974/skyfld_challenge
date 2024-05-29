@@ -1,7 +1,10 @@
 import { Inter } from "next/font/google";
 import { ThemeModeScript } from "flowbite-react";
 import "./globals.css";
-import { SidebarProvider } from "@/app/context/SidebarContext";
+import { SidebarProvider } from "@/context/SidebarContext";
+import dynamic from "next/dynamic";
+import CenteredSpinner from "@/components/CenteredSpinner";
+const Sidebar = dynamic(() => import("@/components/Sidebar"), {loading: () => <CenteredSpinner/>, ssr: false})
 
 const inter = Inter({subsets: ["latin"]});
 
@@ -17,10 +20,13 @@ export default function RootLayout({children}) {
         <ThemeModeScript/>
       </head>
       <body className={inter.className}>
-        <SidebarProvider>
+      <SidebarProvider>
+        <main className="min-h-screen h-full w-full flex flex-col gap-2 dark:bg-gray-900">
+          <Sidebar />
           {children}
-        </SidebarProvider>
+        </main>
+      </SidebarProvider>
       </body>
     </html>
-  );
+);
 }
