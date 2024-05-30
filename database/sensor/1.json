@@ -6772,5 +6772,365 @@
     "type": "temperature",
     "value": 23.01,
     "timestamp": "2024-05-29T16:29:01.390Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.96,
+    "timestamp": "2024-05-30T11:58:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.32,
+    "timestamp": "2024-05-30T11:59:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.27,
+    "timestamp": "2024-05-30T12:00:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.74,
+    "timestamp": "2024-05-30T12:01:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.16,
+    "timestamp": "2024-05-30T12:02:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.26,
+    "timestamp": "2024-05-30T12:03:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.02,
+    "timestamp": "2024-05-30T12:04:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.81,
+    "timestamp": "2024-05-30T12:05:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.29,
+    "timestamp": "2024-05-30T12:06:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.44,
+    "timestamp": "2024-05-30T12:07:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.73,
+    "timestamp": "2024-05-30T12:08:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.77,
+    "timestamp": "2024-05-30T12:09:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.87,
+    "timestamp": "2024-05-30T12:10:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 26.37,
+    "timestamp": "2024-05-30T12:11:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.65,
+    "timestamp": "2024-05-30T12:12:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.22,
+    "timestamp": "2024-05-30T12:13:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.17,
+    "timestamp": "2024-05-30T12:14:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.39,
+    "timestamp": "2024-05-30T12:15:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.3,
+    "timestamp": "2024-05-30T12:16:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.53,
+    "timestamp": "2024-05-30T12:17:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.46,
+    "timestamp": "2024-05-30T12:18:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.01,
+    "timestamp": "2024-05-30T12:19:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.2,
+    "timestamp": "2024-05-30T12:20:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.32,
+    "timestamp": "2024-05-30T12:21:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 26.26,
+    "timestamp": "2024-05-30T12:22:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.32,
+    "timestamp": "2024-05-30T12:23:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.54,
+    "timestamp": "2024-05-30T12:24:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.22,
+    "timestamp": "2024-05-30T12:25:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.03,
+    "timestamp": "2024-05-30T12:26:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.76,
+    "timestamp": "2024-05-30T12:27:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.17,
+    "timestamp": "2024-05-30T12:28:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 23.43,
+    "timestamp": "2024-05-30T12:29:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.3,
+    "timestamp": "2024-05-30T12:30:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.14,
+    "timestamp": "2024-05-30T12:31:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.76,
+    "timestamp": "2024-05-30T12:32:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.27,
+    "timestamp": "2024-05-30T12:33:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.31,
+    "timestamp": "2024-05-30T12:34:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.18,
+    "timestamp": "2024-05-30T12:35:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.49,
+    "timestamp": "2024-05-30T12:36:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.48,
+    "timestamp": "2024-05-30T12:37:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.01,
+    "timestamp": "2024-05-30T12:38:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 24.35,
+    "timestamp": "2024-05-30T12:39:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.07,
+    "timestamp": "2024-05-30T12:40:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.53,
+    "timestamp": "2024-05-30T12:41:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.78,
+    "timestamp": "2024-05-30T12:42:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.17,
+    "timestamp": "2024-05-30T12:43:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.98,
+    "timestamp": "2024-05-30T12:44:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.29,
+    "timestamp": "2024-05-30T12:45:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 22.48,
+    "timestamp": "2024-05-30T12:46:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.47,
+    "timestamp": "2024-05-30T12:47:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 21.22,
+    "timestamp": "2024-05-30T12:48:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 23.73,
+    "timestamp": "2024-05-30T12:49:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 26.72,
+    "timestamp": "2024-05-30T12:50:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 27.71,
+    "timestamp": "2024-05-30T12:51:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.89,
+    "timestamp": "2024-05-30T12:52:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 23.71,
+    "timestamp": "2024-05-30T12:53:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 28.89,
+    "timestamp": "2024-05-30T12:54:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 25.4,
+    "timestamp": "2024-05-30T12:55:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 29.6,
+    "timestamp": "2024-05-30T12:56:59.323Z"
+  },
+  {
+    "sensorId": 1,
+    "type": "temperature",
+    "value": 20.47,
+    "timestamp": "2024-05-30T12:57:59.323Z"
   }
 ]

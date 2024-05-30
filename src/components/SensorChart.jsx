@@ -2,13 +2,16 @@ import { Datepicker, Select, Spinner } from "flowbite-react";
 import moment from "moment";
 import ApexChart from "@/components/ApexChart";
 import { generateChartSeries, getChartStyling } from "@/helpers/chart";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import ErrorAlert from "@/components/ErrorAlert";
 import DashboardBoxWrapper from "@/components/DashboardBoxWrapper";
 import TimePicker from "@/components/TimePicker";
 import ToggleSwitch from "@/components/ToggleSwitch";
 
 const SensorChart = ({sensorId, className, chartColor}) => {
+  const refreshRate = 3000; // Refresh rate set to 3s for live mode
+  const refreshTimout = useRef()
+  const isFetchingData = useRef(false)
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -19,17 +22,21 @@ const SensorChart = ({sensorId, className, chartColor}) => {
   const [liveDataTimeSpan, setLiveDataTimeSpan] = useState(10)
 
   const fetchData = async () => {
+    if (isFetchingData.current) return
+    isFetchingData.current = true
+
     let tempStartDate = startDate
     let tempEndDate = endDate
     if (isLiveData) {
       tempEndDate = moment(moment.now()).toString()
       tempStartDate = moment(moment.now()).subtract(liveDataTimeSpan, 'minutes').toString()
     }
-    try {
-      let fetchUrl = `/api/sensors/data?sensorId=${sensorId}`
-      if (startDate) fetchUrl += `&startDate=${moment(tempStartDate).toISOString()}`
-      if (endDate) fetchUrl += `&endDate=${moment(tempEndDate).toISOString()}`
 
+    try {
+      // We double cast the date here to ensure formating
+      let fetchUrl = `/api/sensors/data?sensorId=${sensorId}`
+      if (startDate) fetchUrl += `&startDate=${moment(new Date(tempStartDate)).toISOString()}`
+      if (endDate) fetchUrl += `&endDate=${moment(new Date(tempEndDate)).toISOString()}`
       const response = await fetch(fetchUrl);
       if (!response.ok) {
         throw new Error('Network response was not ok');
@@ -41,33 +48,44 @@ const SensorChart = ({sensorId, className, chartColor}) => {
     } finally {
       setLoading(false);
     }
+
+    isFetchingData.current = false;
+    if (isLiveData) {
+      refreshTimout.current = setTimeout(() => fetchData(), refreshRate)
+    }
   };
 
   useEffect(() => {
     fetchData();
   }, [startDate, endDate, isLiveData, liveDataTimeSpan]);
 
+  useEffect(() => {
+    if (!isLiveData && refreshTimout.current) {
+      clearTimeout(refreshTimout.current)
+    }
+  }, [isLiveData]);
+
   if (loading) {
     return (
       <DashboardBoxWrapper className={"text-center"} title={`Sensor data of #${sensorId}`} subTitle="">
-        <Spinner className="my-16"/>
+        <Spinner id="SensorChart_loader" className="my-16"/>
       </DashboardBoxWrapper>
     );
   }
   if (error) {
     return <ErrorAlert message={error}/>;
   }
-  
+
   const dataType = data[0]?.type || 'Unknown'
   return (
     <DashboardBoxWrapper className={className} title={`Sensor data of #${sensorId}`}
                          subTitle={`Data type: ${dataType}`}>
       {data.length === 0 ? (
         <div className="my-6 text-center text-base font-normal text-gray-500 dark:text-gray-400">
-          No data for this period.
+          No data for this period
         </div>
       ): (
-        <ApexChart height={420} options={getChartStyling(data)} series={generateChartSeries(data, chartColor)}
+        <ApexChart id="SensorChart_chart" height={420} options={getChartStyling(data)} series={generateChartSeries(data, chartColor)}
                    type="area"/>
       )}
       <hr className="h-px mb-8 bg-gray-200 border-0 dark:bg-gray-700"/>
