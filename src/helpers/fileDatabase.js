@@ -7,8 +7,8 @@ let sensorBasePath = path.join(process.cwd(), 'database', 'sensor');
 
 // If on prod (vercel) we need to use tmp folder to be able to manipulate files
 if (process.env.NODE_ENV === 'production') {
-  databaseBasePath = path.join(process.cwd(), 'tmp', 'database');
-  sensorBasePath = path.join(process.cwd(), 'tmp' , 'database', 'sensor');
+  databaseBasePath = path.join('tmp', 'database');
+  sensorBasePath = path.join('tmp', 'database', 'sensor');
 }
 
 // Ensure the directory exists
