@@ -2,8 +2,14 @@ import { promises as fs } from 'node:fs';
 import path from 'path';
 
 // Define the base path for sensor data storage
-const databaseBasePath = path.join(process.cwd(), 'database');
-const sensorBasePath = path.join(process.cwd(), 'database', 'sensor');
+let databaseBasePath = path.join(process.cwd(), 'database');
+let sensorBasePath = path.join(process.cwd(), 'database', 'sensor');
+
+// If on prod (vercel) we need to use tmp folder to be able to manipulate files
+if (process.env.NODE_ENV === 'production') {
+  databaseBasePath = path.join(process.cwd(), 'tmp', 'database');
+  sensorBasePath = path.join(process.cwd(), 'tmp' , 'database', 'sensor');
+}
 
 // Ensure the directory exists
 const ensureDirectoryExists = async () => {
